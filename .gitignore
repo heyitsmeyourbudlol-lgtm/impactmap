@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# kit / secrets (lean A→Z)
+DEBRIEF_LOG.md
+.DEBRIEF_LOG.md.*
+notes/DEBRIEF_LOG.md
+notes/INTEGRATION_PROOF*
+automation.config.local.json
+dgx_speed.local.json
+*.pem
+credentials.json
+secrets/
